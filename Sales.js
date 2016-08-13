@@ -1,6 +1,6 @@
 ﻿function Sales() {
     this.step = "";  //1:选择客户 2:选择产品 3:处理订购
-    this.title = "接单";
+    this.title = "Order Process";
     this.mid = setting.currentMenuId;
 
     this.order_id = null;
